@@ -1,4 +1,4 @@
-Sistema de cadastro de produto
+# Sistema de cadastro de produtos tecnologicos
 
 > Status do projeto: Em desenvolvimento
 
