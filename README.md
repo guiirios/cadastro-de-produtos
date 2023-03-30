@@ -44,5 +44,5 @@ npm install react
 
 ```
 Colaboradores:
+ Igor Alves="https://github.com/oigao/oigao"
 ```
- url="https://github.com/oigao/oigao"
