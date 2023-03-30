@@ -43,6 +43,6 @@ npm install react
 ```
 
 
-<ul>Colaboradores:
-<li>Igor Alves="https://github.com/oigao/oigao"</li>
-</ul>
+## Colaboradores do projeto:
+* Igor Alves="https://github.com/oigao/oigao"
+
