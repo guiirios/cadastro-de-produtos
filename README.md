@@ -8,6 +8,11 @@ Para rodar esse projeto no seu computador, por favor digite no terminal:
 ```
 npm install react
 ```
+
+
+![computador1](https://user-images.githubusercontent.com/110192250/228703707-b5886ae0-f5e9-429c-b575-3bd1684410fc.png)
+
+
 ```
 <!doctype html>
 <html>
