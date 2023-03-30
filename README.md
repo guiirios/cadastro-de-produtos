@@ -42,7 +42,7 @@ Para excutar o arquivo "app.js" para ultilizar o Node.js
 npm install react
 ```
 
-```
-Colaboradores:
+
+<em><h2>Colaboradores:<h2><em>
  Igor Alves="https://github.com/oigao/oigao"
-```
+
