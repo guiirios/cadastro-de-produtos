@@ -44,5 +44,5 @@ npm install react
 
 ```
 Colaboradores:
- *url="https://github.com/oigao/oigao"
 ```
+ url="https://github.com/oigao/oigao"
