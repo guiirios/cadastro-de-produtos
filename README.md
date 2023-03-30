@@ -44,5 +44,5 @@ npm install react
 
 
 ## Colaboradores do projeto:
-* Igor Alves="https://github.com/oigao/oigao"
+<a href="https://github.com/oigao)">Igor Alves</a>
 
