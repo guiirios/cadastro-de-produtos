@@ -43,6 +43,6 @@ npm install react
 ```
 
 
-<em><h6>Colaboradores:<h6><em>
- <p>Igor Alves="https://github.com/oigao/oigao"</p>
+<h6>Colaboradores:<h6>
+ * <p>Igor Alves="https://github.com/oigao/oigao"</p>
 
